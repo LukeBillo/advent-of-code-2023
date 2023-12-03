@@ -34,4 +34,5 @@ Desktop.ini
 .DS_Store
 
 # Ignore inputs
-**/input.txt
+**/[Ii]nput.txt
+**/[Ii]nput/*
